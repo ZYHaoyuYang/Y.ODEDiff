@@ -1,0 +1,17 @@
+Package: Y.ODEDiff
+Title: Solve SEIR ODE Model
+Version: 0.0.0.9000
+Author@R: YangHaoyu
+Maintainer: YangHaoyu <1355668094@qq.com@example.com>
+Description: Provides a function to solve the SEIR ODE model, 
+    describing the dynamics of susceptible (S), exposed (E), infected (I1 and I2), 
+    and recovered (R) individuals during the spread of an infectious disease.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Imports: 
+    deSolve,
+    ggplot2,
+    svglite
