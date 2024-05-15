@@ -2,7 +2,7 @@ Package: Y.ODEDiff
 Title: Solve SEIR ODE Model
 Version: 0.0.0.9000
 Author@R: YangHaoyu
-Maintainer: YangHaoyu <1355668094@qq.com@example.com>
+Maintainer: YangHaoyu <1355668094@qq.com>
 Description: Provides a function to solve the SEIR ODE model, 
     describing the dynamics of susceptible (S), exposed (E), infected (I1 and I2), 
     and recovered (R) individuals during the spread of an infectious disease.
